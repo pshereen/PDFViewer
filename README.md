@@ -5,14 +5,14 @@ A VueJS/Node JS Web application for viewing folders and PDF files.
 Write a VueJS/Veutify web page app that connects to node.js running on a Linux or Windows server and presents a list of folders from a specific folder to the user. Allow the user to navigate up and down the list and select an entry. Enumerate the PDF files in the selected folder on the server, present the list to the user and allow the user to navigate up and down. When the user selects one file, download the file from the server and display the contents in the web app using PDFjs. Allow the user to navigate next and previous pages in the PDF. Allow the user to reverse up the UX to go back to the start.
 
 ## Steps to Run the Application
-1. To install the dependencies for the client, go to the client folder and run the command
-   npm install
-2. To install the dependencies for the server, go to the server folder and run the command
-   npm install
-3. To run client on localhost, run the following command inside the client folder
-   npm run serve
-4. To run server on localhost run the following command inside the server folder
-   npm start
+1. To install the dependencies for the client, go to the client folder and run the command ```npm install```
+   
+2. To install the dependencies for the server, go to the server folder and run the command ```npm install```
+
+3. To run client on localhost, run the command inside the client folder ```npm run serve```
+
+4. To run server on localhost run the command inside the server folder ```npm start```
+   
  
  ## Screenshots
  ![image](https://user-images.githubusercontent.com/7041610/210943630-c2bb3171-11ac-48e6-a1f8-5cf8938a58c7.png)
