@@ -6,13 +6,13 @@ Write a VueJS/Veutify web page app that connects to node.js running on a Linux o
 
 ## Steps to Run the Application
 1. To install the dependencies for the client, go to the client folder and run the command
- ### npm install
+   npm install
 2. To install the dependencies for the server, go to the server folder and run the command
- ### npm install
+   npm install
 3. To run client on localhost, run the following command inside the client folder
- ### npm run serve
+   npm run serve
 4. To run server on localhost run the following command inside the server folder
- ### npm start
+   npm start
  
  ## Screenshots
  ![image](https://user-images.githubusercontent.com/7041610/210943630-c2bb3171-11ac-48e6-a1f8-5cf8938a58c7.png)
