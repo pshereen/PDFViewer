@@ -27,8 +27,10 @@ npm start
    
  
  ## Screenshots
+ #### Client Home Page
  ![image](https://user-images.githubusercontent.com/7041610/210943630-c2bb3171-11ac-48e6-a1f8-5cf8938a58c7.png)
  
+ #### Showing the list of folders in the server
  ![image](https://user-images.githubusercontent.com/7041610/210943833-ab24b0b7-86a4-4f33-8cae-a4ad94d73648.png)
 
 ![image](https://user-images.githubusercontent.com/7041610/210944153-f4b23e71-035b-4b56-8c1f-d8ce91ae6328.png)
