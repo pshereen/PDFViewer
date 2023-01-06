@@ -21,3 +21,6 @@ Write a VueJS/Veutify web page app that connects to node.js running on a Linux o
 
 ![image](https://user-images.githubusercontent.com/7041610/210944153-f4b23e71-035b-4b56-8c1f-d8ce91ae6328.png)
 
+![image](https://user-images.githubusercontent.com/7041610/210944297-904a187b-0140-4ab0-ae78-2bd55c282e11.png)
+
+
