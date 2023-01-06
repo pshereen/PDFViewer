@@ -33,8 +33,10 @@ npm start
  #### Showing the list of folders in the server
  ![image](https://user-images.githubusercontent.com/7041610/210943833-ab24b0b7-86a4-4f33-8cae-a4ad94d73648.png)
 
-![image](https://user-images.githubusercontent.com/7041610/210944153-f4b23e71-035b-4b56-8c1f-d8ce91ae6328.png)
+ #### Downloading the PDF file from server
+ ![image](https://user-images.githubusercontent.com/7041610/210944153-f4b23e71-035b-4b56-8c1f-d8ce91ae6328.png)
 
-![image](https://user-images.githubusercontent.com/7041610/210944297-904a187b-0140-4ab0-ae78-2bd55c282e11.png)
+ #### View PDF file in the client application
+ ![image](https://user-images.githubusercontent.com/7041610/210944297-904a187b-0140-4ab0-ae78-2bd55c282e11.png)
 
 
